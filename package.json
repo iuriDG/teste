@@ -1,0 +1,13 @@
+{
+  "name": "ambar-restaurante",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Website do restaurante Âmbar",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
